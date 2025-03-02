@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "416a667d-cf2d-4bd5-b492-4652304eea77",
+    "FromCurrency": "AUD",
+    "Amount": 100,
+    "ConvertedAmount": 44551.00,
+    "ConversionDate": "2025-03-02T13:49:20.8642209Z"
+  },
+  {
+    "Id": "416a667d-cf2d-4bd5-b492-4652304eea77",
+    "FromCurrency": "AUD",
+    "Amount": 100,
+    "ConvertedAmount": 44551.00,
+    "ConversionDate": "2025-03-03T13:49:20.8642209Z"
+  },
+  {
+    "Id": "416a667d-cf2d-4bd5-b492-4652304eea77",
+    "FromCurrency": "BGN",
+    "Amount": 100,
+    "ConvertedAmount": 44551.00,
+    "ConversionDate": "2025-03-02T13:49:20.8642209Z"
+  },
+  {
+    "Id": "416a667d-cf2d-4bd5-b492-4652304eea77",
+    "FromCurrency": "BGN",
+    "Amount": 100,
+    "ConvertedAmount": 44551.00,
+    "ConversionDate": "2025-03-03T13:49:20.8642209Z"
+  },
+  {
+    "Id": "66e4cc70-04b5-40cb-a3c2-684e8551207c",
+    "FromCurrency": "AUD",
+    "Amount": 1,
+    "ConvertedAmount": 445.51,
+    "ConversionDate": "2025-03-02T19:33:46.3801812Z"
+  },
+  {
+    "Id": "f76f89b9-7ad9-472f-90c9-a40bbc79ce00",
+    "FromCurrency": "AUD",
+    "Amount": 1,
+    "ConvertedAmount": 445.51,
+    "ConversionDate": "2025-03-02T19:34:31.5539422Z"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "CurrencyCode": "AUD",
+    "Name": "Australian dollars",
+    "Rate": 445.51,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "BRL",
+    "Name": "Brazilian real",
+    "Rate": 122.85,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "BGN",
+    "Name": "Bulgarian lev",
+    "Rate": 381.34,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "CAD",
+    "Name": "Canadian dollars",
+    "Rate": 496.59,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "CNY",
+    "Name": "Chinese yuan renminbi",
+    "Rate": 98.42,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "CZK",
+    "Name": "Czech koruny",
+    "Rate": 29.80,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "EUR",
+    "Name": "Euro",
+    "Rate": 745.83,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "HKD",
+    "Name": "Hong Kong dollars",
+    "Rate": 92.10,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "HUF",
+    "Name": "Hungarian forints",
+    "Rate": 1.867,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "ISK",
+    "Name": "Icelandic kronur",
+    "Rate": 5.119,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "INR",
+    "Name": "Indian rupee",
+    "Rate": 8.20,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "IDR",
+    "Name": "Indonesian rupiah",
+    "Rate": 0.0433,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "ILS",
+    "Name": "Israeli shekel",
+    "Rate": 199.12,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "JPY",
+    "Name": "Japanese yen",
+    "Rate": 4.7517,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "MYR",
+    "Name": "Malaysian ringgit",
+    "Rate": 160.54,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "MXN",
+    "Name": "Mexican peso",
+    "Rate": 35.15,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "NZD",
+    "Name": "New Zealand dollars",
+    "Rate": 401.44,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "NOK",
+    "Name": "Norwegian kroner",
+    "Rate": 63.61,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "PHP",
+    "Name": "Philippine peso",
+    "Rate": 12.36,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "PLN",
+    "Name": "Polish zlotys",
+    "Rate": 179.71,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "GBP",
+    "Name": "Pounds sterling",
+    "Rate": 902.85,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "RON",
+    "Name": "Romanian leu",
+    "Rate": 149.86,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "XDR",
+    "Name": "SDR (Calculated)",
+    "Rate": 937.94,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "SGD",
+    "Name": "Singapore dollars",
+    "Rate": 531.33,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "ZAR",
+    "Name": "South African rand",
+    "Rate": 38.86,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "KRW",
+    "Name": "South Korean won",
+    "Rate": 0.4907,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "SEK",
+    "Name": "Swedish kronor",
+    "Rate": 66.66,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "CHF",
+    "Name": "Swiss francs",
+    "Rate": 793.94,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "THB",
+    "Name": "Thai baht",
+    "Rate": 20.97,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "TRY",
+    "Name": "Turkish lira",
+    "Rate": 19.62,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  },
+  {
+    "CurrencyCode": "USD",
+    "Name": "US dollars",
+    "Rate": 716.39,
+    "LastUpdated": "2025-03-03T01:42:49.185293+05:30"
+  }
+]

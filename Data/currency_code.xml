@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exchangerates type="Exchange rates" author="Danmarks Nationalbank" refcur="DKK" refamt="1">
+    <dailyrates id="2025-02-28">
+        <currency code="AUD" desc="Australian dollars" rate="445.51" />
+        <currency code="BRL" desc="Brazilian real" rate="122.85" />
+        <currency code="BGN" desc="Bulgarian lev" rate="381.34" />
+        <currency code="CAD" desc="Canadian dollars" rate="496.59" />
+        <currency code="CNY" desc="Chinese yuan renminbi" rate="98.42" />
+        <currency code="CZK" desc="Czech koruny" rate="29.80" />
+        <currency code="EUR" desc="Euro" rate="745.83" />
+        <currency code="HKD" desc="Hong Kong dollars" rate="92.10" />
+        <currency code="HUF" desc="Hungarian forints" rate="1.867" />
+        <currency code="ISK" desc="Icelandic kronur" rate="5.119" />
+        <currency code="INR" desc="Indian rupee" rate="8.20" />
+        <currency code="IDR" desc="Indonesian rupiah" rate="0.0433" />
+        <currency code="ILS" desc="Israeli shekel" rate="199.12" />
+        <currency code="JPY" desc="Japanese yen" rate="4.7517" />
+        <currency code="MYR" desc="Malaysian ringgit" rate="160.54" />
+        <currency code="MXN" desc="Mexican peso" rate="35.15" />
+        <currency code="NZD" desc="New Zealand dollars" rate="401.44" />
+        <currency code="NOK" desc="Norwegian kroner" rate="63.61" />
+        <currency code="PHP" desc="Philippine peso" rate="12.36" />
+        <currency code="PLN" desc="Polish zlotys" rate="179.71" />
+        <currency code="GBP" desc="Pounds sterling" rate="902.85" />
+        <currency code="RON" desc="Romanian leu" rate="149.86" />
+        <currency code="XDR" desc="SDR (Calculated)" rate="937.94" />
+        <currency code="SGD" desc="Singapore dollars" rate="531.33" />
+        <currency code="ZAR" desc="South African rand" rate="38.86" />
+        <currency code="KRW" desc="South Korean won" rate="0.4907" />
+        <currency code="SEK" desc="Swedish kronor" rate="66.66" />
+        <currency code="CHF" desc="Swiss francs" rate="793.94" />
+        <currency code="THB" desc="Thai baht" rate="20.97" />
+        <currency code="TRY" desc="Turkish lira" rate="19.62" />
+        <currency code="USD" desc="US dollars" rate="716.39" />
+    </dailyrates>
+</exchangerates>

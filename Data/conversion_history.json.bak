@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "416a667d-cf2d-4bd5-b492-4652304eea77",
+    "FromCurrency": "AUD",
+    "Amount": 100,
+    "ConvertedAmount": 44551.00,
+    "ConversionDate": "2025-03-02T13:49:20.8642209Z"
+  },
+  {
+    "Id": "416a667d-cf2d-4bd5-b492-4652304eea77",
+    "FromCurrency": "AUD",
+    "Amount": 100,
+    "ConvertedAmount": 44551.00,
+    "ConversionDate": "2025-03-03T13:49:20.8642209Z"
+  }
+]
