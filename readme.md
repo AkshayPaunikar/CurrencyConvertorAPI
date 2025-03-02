@@ -11,14 +11,13 @@ A RESTful API for currency conversion to Danish Krone (DKK) using the latest exc
   - Converting amounts between currencies and DKK
   - Storing and retrieving conversion history with filtering options
 - File-based storage for both currency rates and conversion history
-- Error handling and logging
+- Error handling and logging(using Serilog)
 - Swagger API documentation
 
 ## Technical Stack
 
 - **Language**: C# 
 - **Framework**: .NET 8
-- **API**: RESTful with proper HTTP methods (GET, POST)
 - **Documentation**: Swagger/OpenAPI
 - **Storage**: File-based with JSON serialization
 
@@ -35,7 +34,9 @@ A RESTful API for currency conversion to Danish Krone (DKK) using the latest exc
 - **POST /api/CurrencyConversion/convert**: Convert an amount from a specified currency to DKK
 - **GET /api/CurrencyConversion/history**: Get conversion history with optional filtering
 
+### Auth
 
+- **POST /api/login**: Authenticate and Authorize user and returns a token
 
 ## File Storage
 
@@ -43,3 +44,4 @@ The application stores data in JSON files located in the `Data` directory of the
 
 - `currency_rates.json`: Stores the latest currency rates
 - `conversion_history.json`: Stores the conversion history
+- `Logs`: Stores logs
