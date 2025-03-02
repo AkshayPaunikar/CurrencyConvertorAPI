@@ -46,7 +46,7 @@ namespace CurrencyConvertorAPI.Services
 
             var rate = await _rateRepository.GetRateByCodeAsync(request.FromCurrency);
 
-            var convertedAmount = request.Amount * rate.Rate;
+            var convertedAmount = Math.Round(request.Amount * (rate.Rate/100), 2);
 
             response = new CurrencyConversionResponseDto
             {
